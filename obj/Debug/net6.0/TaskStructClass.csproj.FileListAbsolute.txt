@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\TaskStructClass.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\TaskStructClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\TaskStructClass.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\TaskStructClass.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\TaskStructClass.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\bin\Debug\net6.0\TaskStructClass.exe
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\bin\Debug\net6.0\TaskStructClass.deps.json
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\bin\Debug\net6.0\TaskStructClass.runtimeconfig.json
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\bin\Debug\net6.0\TaskStructClass.dll
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\bin\Debug\net6.0\TaskStructClass.pdb
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\TaskStructClass.dll
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\refint\TaskStructClass.dll
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\TaskStructClass.pdb
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\TaskStructClass.genruntimeconfig.cache
+C:\Users\Asus\source\repos\TaskStructClass\TaskStructClass\obj\Debug\net6.0\ref\TaskStructClass.dll
